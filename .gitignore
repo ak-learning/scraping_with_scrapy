@@ -14,7 +14,7 @@
 !*.png
 !*.org
 !*.csv
-!*.ipynb
+!*.json
 !pyproject.toml
 !poetry.lock
 
